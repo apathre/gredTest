@@ -1,2 +1,0 @@
-# gredTest
-Created with CodeSandbox
